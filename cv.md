@@ -10,5 +10,5 @@
 - GitHub
 ## Education
 - BTEC Level 3 Business Diploma
-## English Level
+## Level of English language
 - Native
